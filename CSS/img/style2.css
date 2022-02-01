@@ -1,0 +1,12 @@
+img {
+    width: 200px;
+    display: block;
+    filter: drop-shadow(20px , 20px);
+    animation: myAnimation 2s ease ls 3 alternate forwards;
+}
+
+@keyframes myAnimation {
+    100% {
+        transform: rotate(360deg);
+    
+}
