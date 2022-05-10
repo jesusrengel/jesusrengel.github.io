@@ -54,24 +54,4 @@
     </author>
     <summary>EJERCICIO 5 DE XML</summary>
 </entry>
-<entry>
-    <title>EJERCICIO 6</title>
-    <link href="./Actividades/unidad7/ejercicio6.xml"/>
-    <id>https://jesusrengel.github.io/Actividades/unidad7/ejercicio6.xml</id>
-    <author>
-    <name>Jesús Rengel Yuste</name>
-    <email>a21reyuje@iesgrancapitan.org</email>
-    </author>
-    <summary>EJERCICIO 6 DE XML</summary>
-</entry>
-<entry>
-    <title>EJERCICIO 7</title>
-    <link href="./Actividades/unidad7/ejercicio7.xml"/>
-    <id>https://jesusrengel.github.io/Actividades/unidad7/ejercicio7.xml</id>
-    <author>
-    <name>Jesús Rengel Yuste</name>
-    <email>a21reyuje@iesgrancapitan.org</email>
-    </author>
-    <summary>EJERCICIO 6 DE XML</summary>
-</entry>
 </feed>
