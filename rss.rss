@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Página de Jesus Rengel</title>
+<link>https://jesusrengel.github.io/index.html</link>
+<description>Una pagina en la que puedes ver información sobre la página primcipal</description>
+<item>
+    <title>Cordoba Patrimonio</title>
+    <link>https://jesusrengel.github.io/CP/index.html</link>
+    <description>Una pagina en la que puedes ver información sobre Córdoba Patrimonio</description> 
+</item>
+
+<item>
+    <title>Recetas de la abuela</title>
+    <link>https://jesusrengel.github.io/LasRecetasChusteras/index.html</link>
+    <description>Una pagina en la que puedes ver información sobre Las Recetas De La Abuela</description> 
+</item>
+</channel>
+</rss>
