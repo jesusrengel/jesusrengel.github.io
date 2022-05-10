@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<title>Pagina de Jesús Rengel</title>
+<link rel="alternate" type="text/xml" href="atom.atom"/>
+<id>https://jesusrengel.github.io/</id>
+
+<entry>
+    <title>EJERCICIO 1</title>
+    <link href="./Actividades/unidad7/ejercicio1.xml"/>
+    <id>https://jesusrengel.github.io/Actividades/unidad7/ejercicio1.xml</id>
+    <author>
+    <name>Jesús Rengel Yuste</name>
+    <email>a21reyuje@iesgrancapitan.org</email>
+    </author>
+    <summary>EJERCICIO 1 DE XML</summary>
+</entry>
+<entry>
+    <title>EJERCICIO 2</title>
+    <link href="./Actividades/unidad7/ejercicio2.xml"/>
+    <id>https://jesusrengel.github.io/Actividades/unidad7/ejercicio2.xml</id>
+    <author>
+        <name>Jesús Rengel Yuste</name>
+        <email>a21reyuje@iesgrancapitan.org</email>
+        </author>
+        <summary>EJERCICIO 2 DE XML</summary>
+</entry>
+<entry>
+    <title>EJERCICIO 3</title>
+    <link href="./Actividades/unidad7/ejercicio3.xml"/>
+    <id>https://jesusrengel.github.io/Actividades/unidad7/ejercicio3.xml</id>
+    <author>
+    <name>Jesús Rengel Yuste</name>
+    <email>a21reyuje@iesgrancapitan.org</email>
+    </author>
+    <summary>EJERCICIO 3 DE XML</summary>
+</entry>
+<entry>
+    <title>EJERCICIO 4</title>
+    <link href="./Actividades/unidad7/ejercicio4.xml"/>
+    <id>https://jesusrengel.github.io/Actividades/unidad7/ejercicio4.xml</id>
+    <author>
+    <name>Jesús Rengel Yuste</name>
+    <email>a21reyuje@iesgrancapitan.org</email>
+    </author>
+    <summary>EJERCICIO 4 DE XML</summary>
+</entry>
+<entry>
+    <title>EJERCICIO 5</title>
+    <link href="./Actividades/unidad7/ejercicio5.xml"/>
+    <id>https://jesusrengel.github.io/Actividades/unidad7/ejercicio5.xml</id>
+    <author>
+    <name>Jesús Rengel Yuste</name>
+    <email>a21reyuje@iesgrancapitan.org</email>
+    </author>
+    <summary>EJERCICIO 5 DE XML</summary>
+</entry>
+<entry>
+    <title>EJERCICIO 6</title>
+    <link href="./Actividades/unidad7/ejercicio6.xml"/>
+    <id>https://jesusrengel.github.io/Actividades/unidad7/ejercicio6.xml</id>
+    <author>
+    <name>Jesús Rengel Yuste</name>
+    <email>a21reyuje@iesgrancapitan.org</email>
+    </author>
+    <summary>EJERCICIO 6 DE XML</summary>
+</entry>
+<entry>
+    <title>EJERCICIO 7</title>
+    <link href="./Actividades/unidad7/ejercicio7.xml"/>
+    <id>https://jesusrengel.github.io/Actividades/unidad7/ejercicio7.xml</id>
+    <author>
+    <name>Jesús Rengel Yuste</name>
+    <email>a21reyuje@iesgrancapitan.org</email>
+    </author>
+    <summary>EJERCICIO 6 DE XML</summary>
+</entry>
+</feed>
