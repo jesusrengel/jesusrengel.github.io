@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Veterinaria>
+      <Cliente>       
+             <identificador_clien>1</identificador_clien>
+             <nombre_cli>Jesús Tienda</nombre_cli>
+             <telefono>654654654</telefono>
+      </Cliente>
+      <Mascota>
+          <identificador_masc>1</identificador_masc>
+          <categoria>Perro</categoria>
+          <nombre>Bolita</nombre>
+          <fecha_nacimiento>05/07/2015</fecha_nacimiento>
+      </Mascota>
+      <Veterinario>
+          <identificador_vet>1</identificador_vet>
+          <nombre>María Leiva</nombre>
+      </Veterinario>
+      <Fecha_consulta>12/04/2022</Fecha_consulta>
+      <Hora_consulta>15:50</Hora_consulta>
+      
+      
+      <Cliente>       
+             <identificador_clien>2</identificador_clien>
+             <nombre_cli>María Mancad</nombre_cli>
+             <telefono>654654654</telefono>
+      </Cliente>
+      <Mascota>
+          <identificador_masc>2</identificador_masc>
+          <categoria>Gato</categoria>
+          <nombre>Nieve</nombre>
+          <fecha_nacimiento>13/05/2018</fecha_nacimiento>
+      </Mascota>
+      <Veterinario>
+          <identificador_vet>2</identificador_vet>
+          <nombre>Álvaro Tienda</nombre>
+      </Veterinario>
+      <Fecha_consulta>17/02/2022</Fecha_consulta>
+      <Hora_consulta>15:25</Hora_consulta>
+</Veterinaria>
