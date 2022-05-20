@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE agenda SYSTEM "ejercicio6.dtd">
+<agenda>
+<persona id="Ricardo">
+    <nombre>Ricardo Borriquero</nombre>
+    <tlf>951245679</tlf>
+</persona>
+<persona id="eva">
+    <nombre>Eva Risto</nombre>
+    <tlf>955837659</tlf>
+    <tw>@evaristo</tw>
+    </persona>
+</agenda>

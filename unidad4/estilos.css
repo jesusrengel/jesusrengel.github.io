@@ -1,0 +1,62 @@
+.p1{
+    background-image: url(./ciencias_naturales-flores-tierra_-planeta_499960581_154305912_1706x960.jpg);
+    width: 30vw;
+    text-align: center;
+    font-size: 2em;
+    border: 2px solid black;
+    padding: 5vw;  
+}
+
+.p2{
+    width: 30vw;
+    text-align: center;
+    font-size: 2em;
+    border: 2px solid black;
+    padding: 5vw;  
+}
+
+.p3{
+    background-image: url(./ciencias_naturales-flores-tierra_-planeta_499960581_154305912_1706x960.jpg);
+    width: 30vw;
+    text-align: center;
+    font-size: 2em;
+    border: 2px solid black;
+    padding: 5vw;  
+}
+
+.p4{
+    font-size: 2.3em;
+    padding-top: 100px;
+}
+
+.p5{
+    font-size: 1em;
+    padding-top: 150px;
+}
+
+.p6, .p7{
+    background-image: url(./playa-tropical_74190-188.jpg);
+    text-align: center;
+    font-size: 2em;
+    text-align: center;
+    font-size: 2em;
+    display: inline-table;
+    width: 25vw;
+    height: 25vw;
+    color:white;
+    font-size: 1.5em;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.p7 {
+    background-blend-mode: color-burn;
+    background-color: orange;
+}
+
+.s1{
+    background-image: url(./5fd7240cadcfe.jpeg);
+    width: 400px;
+    height: 300px;
+    
+}

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gestion_turistica xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="RengelJesus_ej7.xsd">
+    <hoteles id="1">
+        <nombre>Palace</nombre>
+        <correo_electronico>palace@gmail.com</correo_electronico>
+        <telefono>654654654</telefono>
+        <ubicacion>Madrid</ubicacion>
+    </hoteles>
+    <habitaciones id="1" tipo="deluxe">
+        <numero>54</numero>
+        <descripcion>Buena</descripcion>
+        <hotel_perteneciente>Palace</hotel_perteneciente>
+    </habitaciones>
+    <clientes id="1">
+    <nombre>Jesus</nombre>
+    <fecha_entrada>2015-10-10</fecha_entrada>
+    <fecha_salida>2015-09-08</fecha_salida>
+    <importe>255</importe> 
+    </clientes>
+    <reservas id="1" fecha_alta="2012-02-10">
+    <fecha_entrada>2015-10-10</fecha_entrada>
+    <fecha_salida>2015-09-08</fecha_salida>
+    <importe>52</importe>
+    </reservas>
+</gestion_turistica>
