@@ -1,7 +1,0 @@
-Quiero añadirle a fecha y hora el tipo de dato que quiero que tenga , en el cual en fecha es type"xs:date" y en la hora es type="xs:time"	   
-Y también quiero establecer un máximo y un mínimo de caracteres que sería a través del minLenght y maxLenght
- 	Se lo muestro en el siguiente ejemplo
-
-   <xs:element name="Fecha_consulta" type="xs:date"/>
-   <xs:element name="Hora_consulta" type="xs:time"/>
-   <xs:element name="telefono" type="xs:integer" minLenght=”7” maxLenght=”12”/>
